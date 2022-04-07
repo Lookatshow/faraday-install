@@ -66,6 +66,8 @@ https://github.com/infobyte/faraday/issues/399
 
 Устанавливаем: pip install itsdangerous
 
+`~/.faraday/config$ faraday-server --bind_address 0.0.0.0`
+`Bad Credentials, please check the .faraday/config/server.ini`
 
 # Cotainerize
 
