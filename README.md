@@ -21,10 +21,16 @@ Test Faraday Ub
 
 Релогинимся
 
-`faraday-manage initdb`
-
 Ставим пакет
 https://github.com/infobyte/faraday/issues/399
+
+Ставим пакет 
+`sudo apt install postresql`
+
+`faraday-manage initdb`
+
+
+
 
 
 # Фиксим ошибки
