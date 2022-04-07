@@ -55,6 +55,11 @@ password: ***********
 
 `ERROR: jinja2 3.1.1 has requirement MarkupSafe>=2.0, but you'll have markupsafe 1.1.0 which is incompatible.`
 
+Устанавливаем pip install MarkupSafe==2.0.1
 
 `ERROR: flask 2.1.1 has requirement importlib-metadata>=3.6.0; python_version < "3.10", but you'll have importlib-metadata 1.5.0 which is incompatible.`
+
+Устанавливаем pip install importlib-metadata (устанавливается https://pypi.org/project/importlib-metadata/)
+
+`faraday-server[20417]: Could not connect to PostgreSQL` 
 
