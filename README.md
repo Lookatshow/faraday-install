@@ -2,7 +2,7 @@
 Test Faraday Ub
 
 `
-sudo apt install python-dev, lib****-dev
+sudo apt install python-dev, libpq-dev
 sudo apt install python3-virtualenv
 
 $ virtualenv faraday_venv
