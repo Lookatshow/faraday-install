@@ -2,7 +2,8 @@
 Test Faraday Ub
 
 `
-apt install python-dev, lib****-dev
+sudo apt install python-dev, lib****-dev
+sudo apt install python3-virtualenv
 
 $ pip install virtualenv
 
