@@ -15,13 +15,15 @@ Test Faraday Ub
 
 `$ git clone https://github.com/infobyte/faraday_angular_frontend.git faraday/frontend `
 
-`$ pip install .  `
+`$ sudo pip install .  `
 
 `sudo usermod -a -G faraday {username}`
 
 Релогинимся
 
 `faraday-manage initdb`
+
+
 
 # Фиксим ошибки
 
@@ -37,4 +39,7 @@ Test Faraday Ub
 `Error: pg_config executable not found.`
 
 Устанавливаем: sudo apt install libpq-dev
+
+`ERROR: jinja2 3.1.1 has requirement MarkupSafe>=2.0, but you'll have markupsafe 1.1.0 which is incompatible.`
+`ERROR: flask 2.1.1 has requirement importlib-metadata>=3.6.0; python_version < "3.10", but you'll have importlib-metadata 1.5.0 which is incompatible.`
 
