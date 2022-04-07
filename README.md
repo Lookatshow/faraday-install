@@ -63,3 +63,7 @@ password: ***********
 
 `faraday-server[20417]: Could not connect to PostgreSQL` 
 
+`ImportError: cannot import name 'TimedJSONWebSignatureSerializer' from 'itsdangerous' (/usr/local/lib/python3.8/dist-packages/itsdangerous/__init__.py)`
+
+Устанавливаем: pip install itsdangerous
+
