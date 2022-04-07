@@ -30,8 +30,8 @@ https://github.com/infobyte/faraday/issues/399
 
 Сохраняем логин и пароль
 
-username: faraday
-password: ***********
+`username: faraday`
+`password: ***********`
 
 
 
