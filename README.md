@@ -29,3 +29,6 @@ $ pip install .
 `ERROR: Command errored out with exit status 1: python setup.py egg_info Check the logs for full command output.`
 
 Обновляем: python -m pip install --upgrade pip и pip install -U setuptools
+
+`Error: pg_config executable not found.`
+
