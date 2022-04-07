@@ -1,7 +1,6 @@
-# faraday-install
-Test Faraday Ub
+# Установка и настройка Faraday
+Решние: https://github.com/infobyte/faraday
 
-`
 `sudo apt install python-dev, libpq-dev`
 `sudo apt install python3-virtualenv`
 
