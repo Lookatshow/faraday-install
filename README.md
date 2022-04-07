@@ -19,3 +19,10 @@ $ git clone https://github.com/infobyte/faraday_angular_frontend.git faraday/fro
 
 $ pip install .
 `
+
+
+# Фиксим ошибки
+
+`AttributeError: module 'virtualenv.create.via_global_ref.builtin.cpython.mac_os' has no attribute 'CPython2macOsArmFramework'`
+
+Удаляем: pip3 uninstall virtualenv
