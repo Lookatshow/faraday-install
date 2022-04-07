@@ -32,3 +32,5 @@ $ pip install .
 
 `Error: pg_config executable not found.`
 
+Устанавливаем: sudo apt install libpq-dev
+
