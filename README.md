@@ -24,3 +24,7 @@ $ pip install .
 `AttributeError: module 'virtualenv.create.via_global_ref.builtin.cpython.mac_os' has no attribute 'CPython2macOsArmFramework'`
 
 Удаляем: pip3 uninstall virtualenv
+
+
+`ERROR: Command errored out with exit status 1: python setup.py egg_info Check the logs for full command output.`
+
