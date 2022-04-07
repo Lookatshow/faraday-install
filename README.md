@@ -23,6 +23,8 @@ Test Faraday Ub
 
 `faraday-manage initdb`
 
+Ставим пакет
+https://github.com/infobyte/faraday/issues/399
 
 
 # Фиксим ошибки
@@ -41,5 +43,7 @@ Test Faraday Ub
 Устанавливаем: sudo apt install libpq-dev
 
 `ERROR: jinja2 3.1.1 has requirement MarkupSafe>=2.0, but you'll have markupsafe 1.1.0 which is incompatible.`
+
+
 `ERROR: flask 2.1.1 has requirement importlib-metadata>=3.6.0; python_version < "3.10", but you'll have importlib-metadata 1.5.0 which is incompatible.`
 
