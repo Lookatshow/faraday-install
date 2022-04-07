@@ -29,6 +29,11 @@ https://github.com/infobyte/faraday/issues/399
 
 `faraday-manage initdb`
 
+Сохраняем логин и пароль
+
+username: faraday
+password: ***********
+
 
 
 
