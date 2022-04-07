@@ -67,3 +67,7 @@ password: ***********
 
 Устанавливаем: pip install itsdangerous
 
+
+# Cotainerize
+
+https://hub.docker.com/r/faradaysec/faraday
